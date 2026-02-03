@@ -1,0 +1,11 @@
+node_modules/
+.env
+data/
+logs/
+
+# Personal Files
+src/characters/*.js
+!src/characters/example.js
+src/config/bots.js
+!src/config/bots.example.js
+
