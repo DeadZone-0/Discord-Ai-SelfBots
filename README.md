@@ -1,4 +1,4 @@
-# Discord Gemini Self-Bot
+# Discord AI Self-Bot
 
 A sophisticated Discord self-bot powered by Google's Gemini AI, designed to act as a believable, autonomous user.
 
