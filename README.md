@@ -17,8 +17,8 @@ A sophisticated Discord self-bot powered by Google's Gemini AI, designed to act 
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/discord-gemini-selfbot.git
-    cd discord-gemini-selfbot
+    https://github.com/DeadZone-0/Discord-Ai-SelfBots
+    cd Discord-Ai-SelfBots
     ```
 
 2.  **Install dependencies**
